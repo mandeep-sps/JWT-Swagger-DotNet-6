@@ -1,2 +1,2 @@
-# -JWT-_Swagger_DotNet-6
+# JWT-_Swagger_DotNet-6
 For Internal Use
