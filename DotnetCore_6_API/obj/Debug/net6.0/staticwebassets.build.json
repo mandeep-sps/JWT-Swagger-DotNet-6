@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R0GW/dGsj+GA9IrCJmK7enAp5PwVggpPeWU1BB3YYPQ=",
+  "Source": "DotnetCore_6_API",
+  "BasePath": "_content/DotnetCore_6_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
